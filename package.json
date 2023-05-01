@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
-    "@nuxtjs/pwa": "^2.6.0",
+    "@nuxtjs/pwa": "^3.3.5",
     "ant-design-vue": "^1.1.10",
     "bootstrap-vue": "^2.0.0-rc.22",
     "cross-env": "^5.2.0",
