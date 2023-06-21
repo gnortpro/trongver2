@@ -18,7 +18,7 @@
     "ant-design-vue": "^1.1.10",
     "bootstrap-vue": "^2.0.0-rc.22",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.4.0",
+    "nuxt": "^3.4.3",
     "sass-loader": "^7.1.0",
     "vue": "^2.6.10",
     "vue-video-player": "^5.0.2"
